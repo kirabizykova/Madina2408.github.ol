@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-color: #2a64f8;
+}
+
+header>*{
+	float:left;
+}
+
+header{
+	width: 100%;
+	height: 250px;
+}
+
+.clear{
+	clear: both;
+}
