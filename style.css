@@ -23,6 +23,9 @@ nav a {
 	padding: 12px 32px;
 	border-radius: 6px;
 }
+nav a.active{
+	background-color:rgb(240, 249, 75);
+}
 
 .col {
 	float: left;
